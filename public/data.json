@@ -1,0 +1,86 @@
+[
+  {
+    "taskName": "Clean the house",
+    "person": "Angel",
+    "toDoNotes": "Clean the whole house till Friday!",
+    "toDoDate": "2018-11-28 13:30"
+  },
+  {
+    "taskName": "Water the plants",
+    "person": "Maria",
+    "toDoNotes": "Water the plants in the office.",
+    "toDoDate": "2018-11-28 10:15"
+  },
+  {
+    "taskName": "Take care of the car",
+    "person": "Ivan",
+    "toDoNotes": "Take the car to the service.",
+    "toDoDate": "2018-11-28 14:45"
+  },
+  {
+    "taskName": "Book tickets",
+    "person": "Todor",
+    "toDoNotes": "Book hotel tickets for upcoming Varna trip.",
+    "toDoDate": "2018-11-28 16:00"
+  },
+  {
+    "taskName": "Learn PHP",
+    "person": "Mihail",
+    "toDoNotes": "Learn how to create registration forms with PHP.",
+    "toDoDate": "2018-11-28 9:00"
+  },
+  {
+    "taskName": "Handmade Present",
+    "person": "Gabriela",
+    "toDoNotes": "Make handmade photo album for the upcoming wedding.",
+    "toDoDate": "2018-11-29 13:15"
+  },
+  {
+    "taskName": "Book tickets for the cinema",
+    "person": "Denitsa",
+    "toDoNotes": "Book tickets for the new Star Wars movie.",
+    "toDoDate": "2018-11-29 10:00"
+  },
+  {
+    "taskName": "Buy Alcohol",
+    "person": "Dimitar",
+    "toDoNotes": "Buy alcohol for the upcoming birthday.",
+    "toDoDate": "2018-11-29 11:45"
+  },
+  {
+    "taskName": "Walk the dog",
+    "person": "Lyubo",
+    "toDoNotes": "Walk the dog in the morning, then in the evening.",
+    "toDoDate": "2018-11-29 14:30"
+  },
+  {
+    "taskName": "Sleep",
+    "person": "Antonia",
+    "toDoNotes": "Relax, you have no tasks for today.",
+    "toDoDate": "2018-11-29 16:00"
+  },
+  {
+    "taskName": "Book plane tickets",
+    "person": "Ivanela",
+    "toDoNotes": "Book 12 plane tickets for Barcelona, Spain.",
+    "toDoDate": "2018-11-29 8:30"
+  },
+  {
+    "taskName": "Order dinner",
+    "person": "Irina",
+    "toDoNotes": "Order pizza for the upcoming birthday party.",
+    "toDoDate": "2018-11-30 10:15"
+  },
+  {
+    "taskName": "Buy presents",
+    "person": "Stela",
+    "toDoNotes": "Buy presents for the upcoming birthday party.",
+    "toDoDate": "2018-11-30 11:30"
+  },
+  {
+    "taskName": "Project Research",
+    "person": "Ivailo",
+    "toDoNotes": "Look up the requirements for the European project",
+    "toDoDate": "2018-11-30 11:30"
+  }
+]
